@@ -23,7 +23,7 @@ Deploy a static website using Nginx on a Linux environment.
 - Tech: Linux, Nginx
 - Jira: DEVOPS-2
 - Status: In Progress  
-👉 https://github.com/<username>/project-01-nginx-static-site
+👉 https://github.com/dragos-radu/project-01-nginx-static-site
 
 ---
 
